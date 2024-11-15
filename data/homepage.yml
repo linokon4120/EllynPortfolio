@@ -55,8 +55,14 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I love helping and working with data scientists.</strong> My passion is analyzing and telling the stories behind data. 
-    But, when I am not building models or making visualizations, I enjoy cooking, reading, or dancing to the trendiest pop songs! 
+    <strong>I'm Ellyn (LN), a current junior studying Business Analytics and Computer Science at Bucknell University. </strong> Previously, 
+    I worked at EAM-Mosca Corp as a Data Analytics Intern, where I enhanced data quality and data warehousing on Salesforce 
+    and conducting ad hoc analyses to define fit rates of 30+ machine lines utilizing advanced ETL processes.
+    </p>
+    <p class="lead">
+    <strong>I love helping and working with data scientists.</strong> Motivated by my curiosity in the power of data-driven storytelling, 
+    I have completed different data case studies spanning across different industries: hospitality, e-commerce, service, and so on. 
+    My goal is to showcase how to leverage data science in making impactful business decisions. 
     </p>
     <p class="lead">
     <strong>My area of focus</strong> on leveraging data science to drive business success. I deliver value by identifying 
