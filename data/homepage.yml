@@ -53,7 +53,7 @@ showcase:
 about:
   enable: true
   title: "Who am I?"
-  content: 
+  content: >
     <p class="lead">
     <strong>I'm Ellyn (LN), a current junior studying Business Analytics and Computer Science at Bucknell University. </strong> Previously, 
     I worked at EAM-Mosca Corp as a Data Analytics Intern, where I enhanced data quality and data warehousing on Salesforce 
