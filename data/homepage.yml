@@ -7,13 +7,16 @@ showcase:
   title: "Hello, I’m Ellyn (LN)."
   subtitle: "Prev. Data Analytics Intern seeking Data Scientist Internships"
   #description: "Matt is the founder of <a target='_blank' href='https://www.business-science.io/'>Business Science</a>, an online data science school that helps students become a data scientist in 6-months or less."
-  description: "Linh Ngo (also known as Ellyn) is currently a BSBA junior studying Business Analytics and Computer Science at Bucknell University. Her past projects and internship experiences have equipped her with a solid foundation in Python, SQL, Java, Power BI, Tableau, Excel, and more. With diverse technical backgrounds and a passion for data-driven strategies, Ellyn is eager to explore Data Science opportunites."
+  description: > 
+    Linh Ngo (also known as Ellyn) is currently a BSBA junior studying Business Analytics and Computer Science at Bucknell University. Her past projects and internship experiences have equipped her with a 
+    solid foundation in Python, SQL, Java, Power BI, Tableau, Excel, and more. With diverse technical backgrounds and a passion for data-driven strategies, 
+    Ellyn is eager to explore Data Science opportunites.
   image:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/showcase/tableau.gif"
+    _2x: "img/showcase/tableau.gif"
   imageMobile:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/showcase/tableau.gif"
+    _2x: "img/showcase/tableau.gif"
 
   button:
     icon: "icon-mail-fill"
