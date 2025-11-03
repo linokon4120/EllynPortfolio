@@ -5,7 +5,7 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m Ellyn (LN)."
-  subtitle: "Prev. BI & Data Analytics Intern seeking Data Scientist/ Data Analyst/ SWE Full-time New-grad positions"
+  subtitle: "Seeking SWE/Data Science/ DA New-grad positions"
   #description: "Matt is the founder of <a target='_blank' href='https://www.business-science.io/'>Business Science</a>, an online data science school that helps students become a data scientist in 6-months or less."
   description: > 
     Prev. BI & Data Analytics Intern seeking Full-time New-grad positions</span
@@ -62,10 +62,8 @@ about:
   title: "Who am I?"
   content: >
     <p class="lead">
-    <strong>I'm Ellyn (LN), a current junior studying Business Analytics and Computer Science at Bucknell University. </strong> Previously, 
-    I worked at EAM-Mosca Corp as a Data Analytics Intern, where I enhanced data quality and data warehousing on Salesforce 
-    and conducting ad hoc analyses to define fit rates of 30+ machine lines utilizing advanced ETL processes.
-    </p>
+    <strongI'm Ellyn (LN), a current senior studying Business Analytics and Computer Science at Bucknell University. </strong> Previously,  I worked at PMG Worldwide Marketing Agency (2025) as a Data Analytics Intern, 
+            where I collaborated closely with the engineering team to enhance data quality and data warehousing on Snowflake and Redshift. I also created 10+ dynamic Tableau and Looker Studio dashboards to visualize cross-channel KPIs for 5 business clients (Sephora, Experian, Baylor Scott & White, Jazwares, Michaels), driving their reporting accuracy. </p> <p class="lead"> <strong>I love helping and working with data scientists.</strong> Motivated by my curiosity in the power of data-driven storytelling,  I have completed different data case studies spanning across different industries: hospitality, e-commerce, service, and so on.  My goal is to showcase how to leverage data science in making impactful business decisions.  </p> <p class="lead"> <strong>My area of focus</strong> on leveraging data science to drive business success. I deliver value by identifying  the financial impact of challenges and providing solutions that yield a strong return on investment.  I thrive on continuous learning, collaborating with stakeholders, and empowering better decision-making through data. </p>
     <p class="lead">
     <strong>I love helping and working with data scientists.</strong> Motivated by my curiosity in the power of data-driven storytelling, 
     I have completed different data case studies spanning across different industries: hospitality, e-commerce, service, and so on. 
@@ -99,6 +97,11 @@ experience:
     URL: "cv/Linh_Ngo_Resume"
 
   items:
+
+    - title: "Data & Analytics Intern"
+      company: "PMG Worldwide"
+      duration: "Jun 2025 - Aug 2025"
+
     - title: "Business Intelligence and Data Analytics Intern"
       company: "EAM-Mosca Corporation"
       duration: "May 2024 - Aug 2024"
