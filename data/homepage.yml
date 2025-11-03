@@ -5,8 +5,7 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m Ellyn (LN)."
-  subtitle: "Seeking SWE/Data Science/ DA New-grad positions"
-  #description: "Matt is the founder of <a target='_blank' href='https://www.business-science.io/'>Business Science</a>, an online data science school that helps students become a data scientist in 6-months or less."
+  subtitle: "Open to SWE/ Data roles (New-grad 2026)"
   description: > 
     Prev. BI & Data Analytics Intern seeking Full-time New-grad positions</span
           >
@@ -210,7 +209,7 @@ testimonial:
   items:
   
     - name: "MinhPhuong Cao"
-      position: "Prev. Adobe SWE Intern, Current Microsoft SWE Intern"
+      position: "Prev. NVIDIA, Adobe SWE Inter; Current SWE @NVIDIA"
       content: "Working with Ellyn in multiple campus executive boards and projects was truly a transformative experience. Not only does she go above and beyond, but she also brings a strategic, data-driven approach to each project. She truly stands out in her dedication and professionalism."
       image:
         x: "img/testimonials/phuong.jpg"
