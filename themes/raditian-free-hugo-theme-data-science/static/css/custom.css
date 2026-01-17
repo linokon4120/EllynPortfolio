@@ -1,1 +1,12 @@
 /* You can customize theme styles here */
+
+/* Fix for social media button links */
+.platform-links a {
+  display: inline-block;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.platform-links a:hover {
+  text-decoration: none;
+}
