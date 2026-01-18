@@ -217,12 +217,12 @@ testimonial:
         x: "img/testimonials/phuong.jpg"
         _2x: "img/testimonials/phuong.jpg"
         
-    #- name: "Chris Selig"
-    #  position: "Data Scientist"
-    #  content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
-    #  image:
-    #    x: "img/testimonials/chris.jpg"
-    #    _2x: "img/testimonials/chris.jpg"
+    - name: "Syed Ahmed Masood"
+      position: "Data Analyst II @PMG"
+      content: "Frankly speaking, Ellyn's performance and working style surpassed my expectations. All of tier work + complex SQL code in dbt + advanced Tableau viz + how dedicated she was, was truly impressive and I'm sure my team agrees with me on this. As an intern, she did a lot more than what was expected of her, and I felt like she was a true part of our team by the end of the internship!"
+      image:
+        x: "img/testimonials/ahmed_pmg.jpeg"
+        _2x: "img/testimonials/ahmed_pmg.jpeg"
 
     
 
