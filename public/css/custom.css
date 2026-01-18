@@ -1,12 +1,27 @@
 /* You can customize theme styles here */
 
 /* Fix for social media button links */
-.platform-links a {
-  display: inline-block;
-  padding: 10px;
-  cursor: pointer;
+.rad-showcase .platform-links {
+  position: relative;
+  z-index: 3;
 }
 
-.platform-links a:hover {
+.rad-showcase .platform-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 8px;
+  cursor: pointer;
   text-decoration: none;
+  position: relative;
+  z-index: 3;
+}
+
+.rad-showcase .platform-links a:hover {
+  text-decoration: none;
+}
+
+.rad-showcase__bg,
+.rad-showcase__bg--mobile {
+  pointer-events: none;
 }

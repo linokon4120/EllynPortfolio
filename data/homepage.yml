@@ -5,15 +5,11 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m Ellyn (LN)."
-  subtitle: "Open to SWE/ Data roles (New-grad 2026)"
-  description: > 
-    Prev. BI & Data Analytics Intern seeking Full-time New-grad positions</span
-          >
-        </h1>
-        <p class="lead">
-          Linh Ngo (also known as Ellyn) is currently a senior student studying Business Analytics and Computer Science at Bucknell University. 
-          Her past projects and internship experiences have equipped her with a solid foundation in Python, R, SQL, C, Java, Power BI, Tableau, and more. 
-          With diverse technical backgrounds and a passion for data-driven strategies,  Ellyn is eager to explore Data Science/ Data Analytics/SWE opportunites.
+  subtitle: "Open to Data/SWE roles (New-grad 2026)"
+  description: >
+    Linh Ngo (also known as Ellyn) is currently a senior student studying Business Analytics and Computer Science at Bucknell University.
+    Her past projects and internship experiences have equipped her with a solid foundation in Python, R, SQL, C, Java, Power BI, Tableau, and more.
+    With diverse technical backgrounds and a passion for data-driven strategies, Ellyn is eager to explore Data Science, Data Analytics, and SWE opportunities.
   image:
     x: "img/showcase/tableau.gif"
     _2x: "img/showcase/tableau.gif"
@@ -33,15 +29,19 @@ showcase:
     - icon: "github"
       URL: "https://github.com/linokon4120"
 
-
-    - icon: "dribbble"
+    - icon: "codepen"
       URL: "https://public.tableau.com/app/profile/linh.ngo2507"
+
+    # - icon: "dribbble"
+    #   x: "img/who-am-i/tableau-software.jpg"
+    #   _2x: "img/who-am-i/tableau-software.jpg"
+    #   URL: "https://public.tableau.com/app/profile/linh.ngo2507"
 
     #- icon: "behance"
     #  URL: "https://www.behance.net"
 
-    #- icon: "youtube"
-    #URL: "https://www.youtube.com"
+    - icon: "youtube"
+      URL: "https://www.youtube.com/@NgoLinhhh"
 
     - icon: "instagram"
       URL: "https://www.instagram.com/ellyn_.ngolinh._/"
@@ -61,17 +61,19 @@ about:
   title: "Who am I?"
   content: >
     <p class="lead">
-    <strongI'm Ellyn (LN), a current senior studying Business Analytics and Computer Science at Bucknell University. </strong> Previously,  I worked at PMG Worldwide Marketing Agency (2025) as a Data Analytics Intern, 
-            where I collaborated closely with the engineering team to enhance data quality and data warehousing on Snowflake and Redshift. I also created 10+ dynamic Tableau and Looker Studio dashboards to visualize cross-channel KPIs for 5 business clients (Sephora, Experian, Baylor Scott & White, Jazwares, Michaels), driving their reporting accuracy. </p> <p class="lead"> <strong>I love helping and working with data scientists.</strong> Motivated by my curiosity in the power of data-driven storytelling,  I have completed different data case studies spanning across different industries: hospitality, e-commerce, service, and so on.  My goal is to showcase how to leverage data science in making impactful business decisions.  </p> <p class="lead"> <strong>My area of focus</strong> on leveraging data science to drive business success. I deliver value by identifying  the financial impact of challenges and providing solutions that yield a strong return on investment.  I thrive on continuous learning, collaborating with stakeholders, and empowering better decision-making through data. </p>
-    <p class="lead">
-    <strong>I love helping and working with data scientists.</strong> Motivated by my curiosity in the power of data-driven storytelling, 
-    I have completed different data case studies spanning across different industries: hospitality, e-commerce, service, and so on. 
-    My goal is to showcase how to leverage data science in making impactful business decisions. 
+      <strong>I'm Ellyn (LN), a current senior studying Business Analytics and Computer Science at Bucknell University.</strong>
+      Previously, I worked at PMG Worldwide Marketing Agency (2025) as a Data Analytics Intern, where I collaborated closely with the engineering team to enhance data quality and data warehousing on Snowflake and Redshift.
+      I also created 10+ dynamic Tableau and Looker Studio dashboards to visualize cross-channel KPIs for 5 business clients (Sephora, Experian, Baylor Scott & White, Jazwares, Michaels), driving their reporting accuracy.
     </p>
     <p class="lead">
-    <strong>My area of focus</strong> on leveraging data science to drive business success. I deliver value by identifying 
-    the financial impact of challenges and providing solutions that yield a strong return on investment. 
-    I thrive on continuous learning, collaborating with stakeholders, and empowering better decision-making through data.
+      <strong>I love helping and working with data scientists.</strong>
+      Motivated by my curiosity in the power of data-driven storytelling, I have completed different data case studies spanning across industries: hospitality, e-commerce, service, and more.
+      My goal is to showcase how to leverage data science in making impactful business decisions.
+    </p>
+    <p class="lead">
+      <strong>My area of focus</strong> is on leveraging data science to drive business success.
+      I deliver value by identifying the financial impact of challenges and providing solutions that yield a strong return on investment.
+      I thrive on continuous learning, collaborating with stakeholders, and empowering better decision-making through data.
     </p>
   button:
     icon: "icon-smile-fill"
@@ -93,7 +95,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "cv/Linh_Ngo_Resume"
+    URL: "cv/Ellyn_Ngo_Resume.pdf"
 
   items:
 
@@ -166,7 +168,7 @@ client_and_work:
       description: "This project utilized actual hotel booking status from hotels in the US to identify key factors impacting cancellation."
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
+        btnText: "See on Github"
         URL: "https://github.com/linokon4120/HotelBookingCancellationPredictionModel/blob/main/HotelBookingProject.ipynb"
         
       #video: "<video controls><source src='img/works/hotel_booking_demons_pic.mp4' type='video/mp4'></video>"
@@ -181,7 +183,7 @@ client_and_work:
       description: "This application helps users improve their typing speed and accuracy in a fun and user-friendly game application."
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
+        btnText: "See on Github"
         URL: "https://github.com/linokon4120/KeyFrenzyTypingGame"
       image:
         x: "img/works/key_frenzy_pic.png"
@@ -192,7 +194,7 @@ client_and_work:
       description: "This is a website dedicated to promoting the growing trend of outdoor activities and encouraging a more active lifestyle."
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
+        btnText: "See on Github"
         URL: "https://github.com/linokon4120/OutStyle"
         
       image:
@@ -209,7 +211,7 @@ testimonial:
   items:
   
     - name: "MinhPhuong Cao"
-      position: "Prev. NVIDIA, Adobe SWE Inter; Current SWE @NVIDIA"
+      position: "Prev. NVIDIA, Adobe SWE Intern; Current SWE @NVIDIA"
       content: "Working with Ellyn in multiple campus executive boards and projects was truly a transformative experience. Not only does she go above and beyond, but she also brings a strategic, data-driven approach to each project. She truly stands out in her dedication and professionalism."
       image:
         x: "img/testimonials/phuong.jpg"
