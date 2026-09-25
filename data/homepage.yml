@@ -177,8 +177,8 @@ client_and_work:
         btnText: "See on Github"
         URL: "https://github.com/linokon4120/medical-ai-tutor"
       image:
-        x: "img/works/out_style.png"
-        _2x: "img/works/out_style.png"
+        x: "img/works/medical_ai_tutor_demo.png"
+        _2x: "img/works/medical_ai_tutor_demo.png"
         class: "portfolio-image"
       is_even: false
 
