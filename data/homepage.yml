@@ -5,11 +5,11 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m Ellyn (LN)."
-  subtitle: "Open to Data opportunites (New-grad 2026)"
+  subtitle: "Open to Entry-Level Data roles"
   description: >
     Linh Ngo (also known as Ellyn) is currently a senior student studying Business Analytics and Computer Science at Bucknell University.
-    Her past projects and internship experiences have equipped her with a solid foundation in Python, R, SQL, C, Java, Power BI, Tableau, and more.
-    With diverse technical backgrounds and a passion for data-driven strategies, Ellyn is eager to explore Data Science, Data Analytics, and SWE opportunities.
+    Her past projects and internship experiences have equipped her with a solid foundation in Python, SQL, C, Java, Power BI, Tableau, R, Snowflake, AWS, and more.
+    With diverse technical backgrounds and a passion for data-driven strategies, Ellyn is eager to explore Data Science, Data Analytics, and data-related SWE opportunities.
   image:
     x: "img/showcase/tableau.gif"
     _2x: "img/showcase/tableau.gif"
@@ -61,19 +61,8 @@ about:
   title: "Who am I?"
   content: >
     <p class="lead">
-      <strong>I'm Ellyn (LN), a current senior studying Business Analytics and Computer Science at Bucknell University.</strong>
-      Previously, I worked at PMG Worldwide Marketing Agency (2025) as a Data Analytics Intern, where I collaborated closely with the engineering team to enhance data quality and data warehousing on Snowflake and Redshift.
-      I also created 10+ dynamic Tableau and Looker Studio dashboards to visualize cross-channel KPIs for 5 business clients (Sephora, Experian, Baylor Scott & White, Jazwares, Michaels), driving their reporting accuracy.
-    </p>
-    <p class="lead">
-      <strong>I love helping and working with data scientists.</strong>
-      Motivated by my curiosity in the power of data-driven storytelling, I have completed different data case studies spanning across industries: hospitality, e-commerce, service, and more.
-      My goal is to showcase how to leverage data science in making impactful business decisions.
-    </p>
-    <p class="lead">
-      <strong>My area of focus</strong> is on leveraging data science to drive business success.
-      I deliver value by identifying the financial impact of challenges and providing solutions that yield a strong return on investment.
-      I thrive on continuous learning, collaborating with stakeholders, and empowering better decision-making through data.
+      <strong>Aspiring Data Analyst and Data Scientist</strong> with experience in business intelligence, predictive modeling, and AI-powered decision support.
+      I build scalable analytics solutions that transform large datasets into actionable insights, improve operational efficiency, and support data-driven decision-making across finance, marketing, and healthcare.
     </p>
   button:
     icon: "icon-smile-fill"
@@ -86,8 +75,8 @@ about:
 # experience
 experience:
   enable: true
-  title: "Experience"
-  description: "My strong data science and data analytics skills shine through various internships"
+  title: "Professional Experience"
+  description: "Business intelligence, predictive modeling, and AI-powered analytics across finance, marketing, manufacturing, and higher education."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -98,22 +87,29 @@ experience:
     URL: "cv/Ellyn_Ngo_Resume.pdf"
 
   items:
+    - title: "Data Analyst Intern"
+      company: "Rocket Mortgage, LLC"
+      duration: "May 2026 - Present"
+
+    - title: "Chatbot Developer & Data Science Intern"
+      company: "Office of Institutional Research & Analytics, Bucknell University"
+      duration: "September 2025 - May 2026"
 
     - title: "Data & Analytics Intern"
-      company: "PMG Worldwide"
-      duration: "Jun 2025 - Aug 2025"
+      company: "PMG Advertising Agency"
+      duration: "June 2025 - August 2025"
 
     - title: "Business Intelligence and Data Analytics Intern"
       company: "EAM-Mosca Corporation"
-      duration: "May 2024 - Aug 2024"
+      duration: "May 2024 - August 2024"
 
     - title: "AI-Powered Product Discovery Lab Intern"
       company: "Paragon One"
-      duration: "Nov 2023 - Feb 2024"
+      duration: "November 2023 - February 2024"
 
     - title: "Office of the Provost Student Intern - Experiential Learning Initiatives"
       company: "Bucknell University"
-      duration: "Mar 2023 - Present"
+      duration: "March 2023 - Present"
 
 # education
 education:
@@ -124,13 +120,11 @@ education:
       year: "2022-2026"
       degree: "B.S. Business Analytics and B.A. Computer Science"
 
-
-
 # Client & Work
 client_and_work:
   title: "Portfolio"
   enable: true
-  
+
   enable_clients: false
   clients:
     - logo:
@@ -164,20 +158,29 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Hotel Booking Cancellation ETL, EDA, and Predictive Model"
-      description: "This project utilized actual hotel booking status from hotels in the US to identify key factors impacting cancellation."
+    - title: "Hotel Booking Cancellation Status Prediction Model"
+      description: "Developed a predictive model on 119,390 hotel bookings in Jupyter Notebook to identify key factors influencing cancellations and improve decision-making through data-driven insights."
       button:
         icon: "icon-arrow-right"
         btnText: "See on Github"
         URL: "https://github.com/linokon4120/HotelBookingCancellationPredictionModel/blob/main/HotelBookingProject.ipynb"
-        
-      #video: "<video controls><source src='img/works/hotel_booking_demons_pic.mp4' type='video/mp4'></video>"
-      #is_even: true
       image:
         x: "img/works/hotel_booking_demons_pic.png"
         _2x: "img/works/hotel_booking_demons_pic.png"
         class: "portfolio-image"
       is_even: true
+
+    - title: "Medical AI Tutor"
+      description: "Built a retrieval-augmented medical communication tutor for 100+ healthcare learners and educators, integrating a FastAPI + ChromaDB pipeline with LLM-powered feedback to deliver personalized, evidence-based communication coaching across 10+ role-play scenarios."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See on Github"
+        URL: "https://github.com/linokon4120/medical-ai-tutor"
+      image:
+        x: "img/works/out_style.png"
+        _2x: "img/works/out_style.png"
+        class: "portfolio-image"
+      is_even: false
 
     - title: "Key Frenzy Typing Game"
       description: "This application helps users improve their typing speed and accuracy in a fun and user-friendly game application."
@@ -189,20 +192,18 @@ client_and_work:
         x: "img/works/key_frenzy_pic.png"
         _2x: "img/works/key_frenzy_pic.png"
       is_even: false
-      
+
     - title: "OutStyle"
       description: "This is a website dedicated to promoting the growing trend of outdoor activities and encouraging a more active lifestyle."
       button:
         icon: "icon-arrow-right"
         btnText: "See on Github"
         URL: "https://github.com/linokon4120/OutStyle"
-        
       image:
         x: "img/works/out_style.png"
         _2x: "img/works/out_style.png"
         class: "portfolio-image"
       is_even: true
-    
 
 # testimonial
 testimonial:
